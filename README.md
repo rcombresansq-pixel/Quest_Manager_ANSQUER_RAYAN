@@ -1,5 +1,8 @@
 # Quest_Manager_ANSQUER_RAYAN
 
+
+Before doing project, let's check if required datas are installed :
+
 After installation, verify the JDK folder location by running in PowerShell:
  
 ```powershell
