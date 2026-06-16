@@ -42,5 +42,8 @@ public void completeQuest(Quest quest, PlayerController playerController) {
     playerController.addXP(quest.getXpReward());
     saveQuests();
 }
+public List<Quest> getQuests() {
+    return this.quests;
+}
 
 }
