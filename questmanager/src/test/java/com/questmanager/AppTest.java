@@ -1,4 +1,4 @@
-package com.querymanager;
+package com.questmanager;
 
 import static org.junit.Assert.assertTrue;
 
