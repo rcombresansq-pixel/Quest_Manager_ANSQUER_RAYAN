@@ -176,7 +176,7 @@ Since `mvn` may not be recognized in VSCode terminal, use the full path:
  
 ---
  
-## ⚙️ Prerequisites
+## Prerequisites
  
 - [Java 21 LTS](https://adoptium.net) (Eclipse Adoptium)
 - [VSCode](https://code.visualstudio.com) with:
