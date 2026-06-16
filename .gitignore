@@ -1,16 +1,14 @@
-# Maven
 target/
 *.class
 
-# VSCode
 .vscode/
 *.classpath
 *.project
 *.settings
 
-# Logs
+
 *.log
 
-# OS
+
 .DS_Store
 Thumbs.db
