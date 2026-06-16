@@ -1,4 +1,4 @@
-package com.querymanager;
+package com.questmanager;
 
 /**
  * Hello world!
