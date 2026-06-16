@@ -1,5 +1,4 @@
-package com.querymanager;
-
+package com.questmanager;
 
 public class App 
 {
