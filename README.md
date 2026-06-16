@@ -210,6 +210,6 @@ mvn exec:java -Dexec.mainClass="com.questmanager.Main"
 -  **Quests** — tasks with title, description, difficulty and XP reward
 -  **Daily Quests** — recurring tasks that reset every day
 -  **One-Time Quests** — unique tasks to accomplish once
-- 🧙 **Player** — name, level, XP with automatic level-up logic
-- 🎖️ **Rewards** — titles unlocked at each level milestone
-- 📊 **Quest Status** — `TODO`, `IN_PROGRESS`, `DONE`
+-  **Player** — name, level, XP with automatic level-up logic
+-  **Rewards** — titles unlocked at each level milestone
+-  **Quest Status** — `TODO`, `IN_PROGRESS`, `DONE`
