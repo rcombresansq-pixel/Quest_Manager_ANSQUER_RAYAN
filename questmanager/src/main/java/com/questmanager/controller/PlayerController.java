@@ -29,4 +29,13 @@ public void savePlayer() {
     }
 }
 
+public void addXP(int xp) {
+    player.addXP(xp);
+    savePlayer();
+}
+
+public Player getPlayer() {
+    return this.player;
+}
+
 }
