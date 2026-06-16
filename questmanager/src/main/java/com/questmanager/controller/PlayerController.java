@@ -12,4 +12,21 @@ public class PlayerController {
 public PlayerController(PlayerRepository playerRepository) {
     this.playerRepository = playerRepository;
 }
+
+public void loadPlayer(String name) {
+    try {
+        this.player = playerRepository.load();
+    } catch (Exception e) {
+        this.player = new Player(name);
+    }
+}
+
+public void savePlayer() {
+    try {
+        playerRepository.save(player);
+    } catch (Exception e) {
+        e.printStackTrace();
+    }
+}
+
 }
