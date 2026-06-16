@@ -1,4 +1,4 @@
-package com.querymanager.repository;
+package com.questmanager.repository;
 
 import com.google.gson.Gson;
 
