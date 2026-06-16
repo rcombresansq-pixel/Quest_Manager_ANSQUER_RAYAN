@@ -1,9 +1,6 @@
-package com.querymanager;
+package com.questmanager;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
