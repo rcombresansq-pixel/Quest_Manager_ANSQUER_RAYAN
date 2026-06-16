@@ -1,7 +1,7 @@
 # Quest_Manager_ANSQUER_RAYAN
 
 
-Before do<ing project, let's check if required datas are installed :
+Before doing project, let's check if required datas are installed :
 
 After installation, verify the JDK folder location by running in PowerShell:
  
@@ -26,7 +26,7 @@ Run the following commands in **PowerShell as Administrator**:
 [System.Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\bin", "Machine")
 ```
  
-> ⚠️ Replace the path with your actual JDK folder name if different.
+> ⚠️ Warning : Replace the path with your actual JDK folder name if different.
  
 ---
  
